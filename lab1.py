@@ -14,7 +14,6 @@ constraints = {
 
 domains = {}
 
-for var in variables:
-        domains[var] = ["red", "green", "blue"]
-print(domains)
+
+
 
